@@ -1,0 +1,6 @@
+body{margin:0;background:#06101c;color:white;font-family:Arial;overflow:hidden}
+.top{position:fixed;top:0;width:100%;padding:10px;background:#0008;text-align:center;z-index:2}
+input,button{padding:8px}
+button{cursor:pointer}
+#leaderboard{position:fixed;right:10px;top:90px;width:220px;background:#0008;padding:10px;border-radius:12px;z-index:2}
+canvas{display:block}
